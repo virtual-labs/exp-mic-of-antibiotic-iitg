@@ -2,35 +2,86 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "What does MIC stand for in microbiology?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Microbial Inhibition Concentration",
+        "b": "Minimal Inhibition Capability",
+        "c": "Minimum Inhibitory Concentration",
+        "d": "Microorganism Inactivation Control"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Which of the following methods is commonly used to determine the minimal inhibitory concentration (MIC) of an antibiotic?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Polymerase chain reaction (PCR)",
+        "b": "Western blotting",
+        "c": "Disc diffusion test",
+        "d": "Broth dilution method"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The minimal inhibitory concentration (MIC) is typically expressed in",
+      "answers": {
+        "a": "Grams per milliliter (g/mL)",
+        "b": "Units per milliliter (U/mL)",
+        "c": "Micrograms per milliliter (μg/mL)",
+        "d": "Milligrams per milliliter (mg/mL)"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following best describes the minimal inhibitory concentration (MIC) of an antibiotic?",
+      "answers": {
+        "a": "The highest concentration of an antibiotic that kills all bacteria in a sample.",
+        "b": "The lowest concentration of an antibiotic that inhibits visible bacterial growth.",
+        "c": "The concentration of an antibiotic required to prevent bacterial resistance.",
+        "d": "The concentration of an antibiotic that exhibits side effects in the host."
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the purpose of determining the MIC of an antibiotic?",
+      "answers": {
+        "a": "To assess the cost-effectiveness of the antibiotic",
+        "b": "To evaluate the pharmacokinetics of the antibiotic",
+        "c": "To guide appropriate dosage and treatment duration",
+        "d": "To measure the toxicity of the antibiotic"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
       "difficulty": "beginner"

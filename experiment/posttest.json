@@ -2,37 +2,71 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Which of the following factors can influence the determination of the minimal inhibitory concentration (MIC)?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Temperature and humidity of the testing environment",
+        "b": "Size of the culture dish used for testing",
+        "c": "Genetic makeup of the host organism",
+        "d": "pH of the growth media"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Which of the following statements is true regarding the minimal inhibitory concentration (MIC)?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "A lower MIC value indicates higher susceptibility of bacteria to the antibiotic.",
+        "b": "The MIC value is inversely proportional to the antibiotic's effectiveness.",
+        "c": "The MIC value is only relevant for gram-negative bacteria.",
+        "d": "The MIC value is independent of the bacterial species being tested."
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which method employs gradient strips to determine the minimal inhibitory concentration(MIC) of an antibiotic?",
+      "answers": {
+        "a": "Agar dilution method",
+        "b": "Broth dilution method",
+        "c": "E-test method",
+        "d": "Disc diffusion method"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In the disc diffusion test, the size of the zone of inhibition is directly proportional to:",
+      "answers": {
+        "a": "The concentration of the antibiotic in the disc",
+        "b": "The bacterial resistance to the antibiotic",
+        "c": "The bacterial growth rate",
+        "d": "The minimal inhibitory concentration (MIC)"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
