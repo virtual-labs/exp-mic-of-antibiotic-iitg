@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "What does MIC stand for in microbiology?",
+      "question": "1. What does MIC stand for in microbiology?",
       "answers": {
         "a": "Microbial Inhibition Concentration",
         "b": "Minimal Inhibition Capability",
@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Which of the following methods is commonly used to determine the minimal inhibitory concentration (MIC) of an antibiotic?",
+      "question": "2. Which of the following methods is commonly used to determine the minimal inhibitory concentration (MIC) of an antibiotic?",
       "answers": {
         "a": "Polymerase chain reaction (PCR)",
         "b": "Western blotting",
@@ -36,7 +36,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "The minimal inhibitory concentration (MIC) is typically expressed in",
+      "question": "3. The minimal inhibitory concentration (MIC) is typically expressed in",
       "answers": {
         "a": "Grams per milliliter (g/mL)",
         "b": "Units per milliliter (U/mL)",
@@ -53,7 +53,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Which of the following best describes the minimal inhibitory concentration (MIC) of an antibiotic?",
+      "question": "4. Which of the following best describes the minimal inhibitory concentration (MIC) of an antibiotic?",
       "answers": {
         "a": "The highest concentration of an antibiotic that kills all bacteria in a sample.",
         "b": "The lowest concentration of an antibiotic that inhibits visible bacterial growth.",
@@ -70,12 +70,97 @@
       "difficulty": "beginner"
     },
     {
-      "question": "What is the purpose of determining the MIC of an antibiotic?",
+      "question": "5. What is the purpose of determining the MIC of an antibiotic?",
       "answers": {
         "a": "To assess the cost-effectiveness of the antibiotic",
         "b": "To evaluate the pharmacokinetics of the antibiotic",
         "c": "To guide appropriate dosage and treatment duration",
         "d": "To measure the toxicity of the antibiotic"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "6. Which method is NOT used to determine the MIC of an antibiotic?",
+      "answers": {
+        "a": "Broth dilution method",
+        "b": "Antimicrobial gradient method",
+        "c": "Disk diffusion test",
+        "d": "Polymerase chain reaction (PCR)"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "7. In the disk diffusion test, what does a larger zone of inhibition around the disk indicate?",
+      "answers": {
+        "a": "Higher concentration of antibiotic needed",
+        "b": "Greater effectiveness of the antibiotic against the bacteria",
+        "c": "Presence of antibiotic resistance",
+        "d": "Ineffectiveness of the antibiotic"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "8. Which of the following is a consequence of not using the correct antibiotic dose based on MIC?",
+      "answers": {
+        "a": "Reduced side effects",
+        "b": "Decreased risk of resistance development",
+        "c": "Increased risk of antibiotic resistance",
+        "d": "Enhanced effectiveness of the antibiotic"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "9. Which test uses antibiotic-impregnated disks to determine the effectiveness of an antibiotic?",
+      "answers": {
+        "a": "Broth dilution method",
+        "b": "Antimicrobial gradient method",
+        "c": "Disk diffusion test",
+        "d": "MIC microdilution"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "10. What is a potential consequence of using too low an antibiotic dose that is not based on MIC?",
+      "answers": {
+        "a": "Increased bacterial susceptibility to the antibiotic",
+        "b": "Accelerated bacterial eradication",
+        "c": "Development of antibiotic resistance",
+        "d": "Decreased side effect"
       },
       "explanations": {
         "a": "",
