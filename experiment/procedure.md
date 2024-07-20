@@ -13,4 +13,11 @@ This method uses E-strips which contains predefined gradient of antibiotic conce
 
 #### Disk diffusion test:<br>
 This method consists of placing paper disks saturated with different concentration of antibiotics on a lawn of bacteria seeded on the agar surface, incubating the plate overnight and measuring the presence of a zone of inhibition around the disks. The minimum zone of inhibition with the lowest concentration of the antibiotic to inhibit the growth of bacteria represents the MIC.<br>
-<br><div style="text-align: center;"><img src="images/image2.png" alt="image" width="300" height="400"></div>
+<br><div style="text-align: center;"><img src="images/image2.png" alt="image" width="400" height="400"></div><br><br>
+
+<br><br>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <figure class="video_container" style="width: 600px; height: 350px;">
+    <iframe style="width: 100%; height: 100%;" src="https://www.youtube.com/embed/videoseries?si=zn3jqezpHpEMxVYa&amp;list=PLTkVi3dAX_-9WMgo5mLU6QSHLSCG3kwvV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </figure>
+</div>
