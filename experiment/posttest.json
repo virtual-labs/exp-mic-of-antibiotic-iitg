@@ -153,6 +153,23 @@
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
+    },
+    {
+      "question": "10. What is a key advantage of the antimicrobial gradient method compared to the broth dilution method?",
+      "answers": {
+        "a": "It does not require incubation.",
+        "b": "It provides a quantitative result with a single test.",
+        "c": "It is more suitable for anaerobic bacteria.",
+        "d": "It can be used for fungi as well as bacteria."
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
     }
   ]
 }
