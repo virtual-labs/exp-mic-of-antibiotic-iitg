@@ -1,0 +1,1 @@
+## Determination of minimal inhibitory concentration (MIC) of an antibiotic
