@@ -1,18 +1,42 @@
 ### Procedure :
 <br>
 
-#### Broth dilution method:<br>
-This is the most common method used to determine MIC of an antibiotic. In this method, a broth is used for culturing bacteria. This broth contains all the required nutrients needed for the growth of bacteria. A series of test tubes or well- plate are first filled with equal volume of nutrient broth. After that different concentrations of antibiotic are added to the broth, with 1µg/ml representing the minimum concentration. Then a two-fold series is used, such as 1µg/ml, 2µg/ml, 4µg/ml, 8µg/ml, 16µg/ml and so on, until the highest value in the series is reached for the purpose of the test. Then, each tube or well is inoculated with a specific bacterial culture. The tubes or well-plate are incubated overnight at required temperature, generally 37 degrees Celsius. The tube or well-plate with the lowest concentration of the antibiotic to inhibit the growth of bacteria represents the MIC.<br>
+#### 1. Broth dilution method:<br>
+This is one of the most commonly used methods for determining MIC. It involves preparing a series of test tubes or wells containing nutrient broth with increasing concentrations of an antibiotic. After inoculation with bacteria and incubation, the MIC is determined by observing the lowest concentration at which bacterial growth is inhibited.<br>
+<ol>
+  <li>Prepare a series of test tubes or wells, each containing an equal volume of nutrient broth.</li>
+  <li>Add different concentrations of the antibiotic in a two-fold dilution series (e.g., 1 µg/ml, 2 µg/ml, 4 µg/ml, etc.).</li>
+  <li>Inoculate each tube or well with the bacterial culture.</li>
+  <li>Incubate the tubes or well plate overnight at 37°C.</li>
+  <li>Observe bacterial growth by checking for turbidity.</li>
+  <li>Identify the lowest concentration of the antibiotic that completely inhibits bacterial growth this represents the MIC.</li>
+</ol>
 <br><div style="text-align: center;"><img src="images/image.png" alt="image" width="500" ></div>
 <br>
 
-#### Antimicrobial gradient method:<br>
-This method uses E-strips which contains predefined gradient of antibiotic concentrations. First, with the help of a sterile swab spread the inoculum of bacterial culture onto the agar plate. Then, the strip is fixed to the agar plate with the help of sterile forceps ensuring that the length of the antibiotic gradient is in full contact with the agar surface petri plate. Incubate the plate for overnight. After incubation, the antibiotic gradient transfers to the agar to form a stable, continuous and exponential gradient of antibiotic concentrations below the strip.<br>
+#### 2. Antimicrobial gradient method:<br>
+This method uses E-strips, which contain a predefined gradient of antibiotic concentrations. When placed on an inoculated agar plate, the antibiotic diffuses into the medium, creating a gradient. After incubation, the MIC is determined by identifying the point at which bacterial growth is inhibited along the strip.
+<ol>
+  <li>Prepare an agar plate and evenly spread the bacterial inoculum using a sterile swab.</li>
+  <li>Place the E-strip onto the agar surface using sterile forceps, ensuring full contact.</li>
+  <li>Incubate the plate overnight at 37°C.</li>
+  <li>Observe the antibiotic gradient diffused into the agar.</li>
+  <li>Identify the point along the strip where bacterial growth is inhibited this represents the MIC.</li>
+</ol>
+<br>
 <br><div style="text-align: center;"><img src="images/image1.png" alt="image" width="300" height="400"></div>
 <br>
 
-#### Disk diffusion test:<br>
-This method consists of placing paper disks saturated with different concentration of antibiotics on a lawn of bacteria seeded on the agar surface, incubating the plate overnight and measuring the presence of a zone of inhibition around the disks. The minimum zone of inhibition with the lowest concentration of the antibiotic to inhibit the growth of bacteria represents the MIC.<br>
+#### 3. Disk diffusion test:<br>
+In this method, paper disks impregnated with different concentrations of antibiotics are placed on an agar plate inoculated with bacteria. During incubation, the antibiotic diffuses into the surrounding medium, forming a zone of inhibition where bacterial growth is prevented. The MIC is determined by measuring the smallest inhibition zone corresponding to the lowest antibiotic concentration.<br>
+<ol>
+  <li>Prepare an agar plate and evenly spread the bacterial culture using a sterile swab.</li>
+  <li>Place antibiotic-impregnated paper disks on the agar surface.</li>
+  <li>Incubate the plate overnight at 37°C.</li>
+  <li>After incubation, observe the zone of inhibition around each disk.</li>
+  <li>Measure the diameter of the inhibition zone.</li>
+  <li>Determine the lowest antibiotic concentration that produces a zone of inhibition representing the MIC.</li>
+</ol>
 <br><div style="text-align: center;"><img src="images/image2.png" alt="image" width="400" height="400"></div><br><br>
 
 <br><br>
