@@ -1,0 +1,175 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. Which of the following factors can influence the determination of the minimal inhibitory concentration (MIC)?",
+      "answers": {
+        "a": "Temperature and humidity of the testing environment",
+        "b": "Size of the culture dish used for testing",
+        "c": "Genetic makeup of the host organism",
+        "d": "pH of the growth media"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. Which of the following statements is true regarding the minimal inhibitory concentration (MIC)?",
+      "answers": {
+        "a": "A lower MIC value indicates higher susceptibility of bacteria to the antibiotic.",
+        "b": "The MIC value is inversely proportional to the antibiotic's effectiveness.",
+        "c": "The MIC value is only relevant for gram-negative bacteria.",
+        "d": "The MIC value is independent of the bacterial species being tested."
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. Which method employs gradient strips to determine the minimal inhibitory concentration(MIC) of an antibiotic?",
+      "answers": {
+        "a": "Agar dilution method",
+        "b": "Broth dilution method",
+        "c": "E-test method",
+        "d": "Disc diffusion method"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. In the disc diffusion test, the size of the zone of inhibition is directly proportional to:",
+      "answers": {
+        "a": "The concentration of the antibiotic in the disc",
+        "b": "The bacterial resistance to the antibiotic",
+        "c": "The bacterial growth rate",
+        "d": "The minimal inhibitory concentration (MIC)"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. In the broth dilution method, what is the primary purpose of using a series of test tubes or well plates with different concentrations of antibiotics?",
+      "answers": {
+        "a": "To measure the optical density of bacterial cultures",
+        "b": "To determine the nutrient requirements for bacterial growth",
+        "c": "To identify the lowest concentration of antibiotic that inhibits bacterial growth",
+        "d": "To compare the effectiveness of different antibiotics"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "6. At what temperature are the test tubes or well plates typically incubated overnight in the broth dilution method?",
+      "answers": {
+        "a": "25 degrees Celsius",
+        "b": "30 degrees Celsius",
+        "c": "37 degrees Celsius",
+        "d": "45 degrees Celsius"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "7. Which of the following best describes the E-strips used in the antimicrobial gradient method?",
+      "answers": {
+        "a": "Strips with a uniform concentration of antibiotic",
+        "b": "Strips with a predefined gradient of antibiotic concentrations",
+        "c": "Strips that change color based on bacterial growth",
+        "d": "Strips that are saturated with nutrients for bacterial growth"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "8. How are paper disks prepared for the disk diffusion test?",
+      "answers": {
+        "a": "By soaking them in a nutrient broth",
+        "b": "By saturating them with different concentrations of antibiotics",
+        "c": "By sterilizing them with UV light",
+        "d": "By coating them with bacterial cultures"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "9. What is the main advantage of using the broth dilution method?",
+      "answers": {
+        "a": "It is the fastest method available",
+        "b": "It allows for high-throughput testing",
+        "c": "It provides precise quantification of the MIC",
+        "d": "It requires the least amount of reagents"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "10. What is a key advantage of the antimicrobial gradient method compared to the broth dilution method?",
+      "answers": {
+        "a": "It does not require incubation.",
+        "b": "It provides a quantitative result with a single test.",
+        "c": "It is more suitable for anaerobic bacteria.",
+        "d": "It can be used for fungi as well as bacteria."
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
